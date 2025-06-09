@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "name": "Presale Contract",
+      "value": "0xeEf4509D935D0f8A8F9Bb508A405AA2Ce04F7b38"
+    },
+    {
+      "id": 2,
+      "name": "Rate in Native Coin",
+      "value": "0.58"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "ANAIS Presale"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "aims to foster a secure, decentralized, and high-speed financial environment optimized for modern Web3 use cases."
+    },
+    {
+      "id": 5,
+      "name": "Token Name",
+      "value": "Anai Services"
+    },
+    {
+      "id": 6,
+      "name": "Token Contract",
+      "value": "0x00995069ca4d5B19C84C41Da87d758CE44b40985"
+    },
+    {
+      "id": 7,
+      "name": "Token Symbol",
+      "value": "ANAIS"
+    },
+    {
+      "id": 8,
+      "name": "Token Decimal",
+      "value": "18"
+    },
+    {
+      "id": 9,
+      "name": "Token Supply",
+      "value": "10000000"
+    },
+    {
+      "id": 10,
+      "name": "Tokens For Presale",
+      "value": "100000"
+    },
+    {
+      "id": 11,
+      "name": "Alert text",
+      "value": "Buy and receive your tokens immediately!"
+    },
+    {
+      "id": 12,
+      "name": "Presale End Time",
+      "value": "2025-07-10T23:59:59"
+    },
+    {
+      "id": 13,
+      "name": "Affiliate Commission %",
+      "value": "7"
+    },
+    {
+      "id": 14,
+      "name": "Owner Wallet",
+      "value": "0xcD763D670Ab4bFbB110dCdF3FBF884cf4835e523"
+    },
+    {
+      "id": 15,
+      "name": "Telegram Link",
+      "value": "https://t.me/anai_services"
+    },
+    {
+      "id": 16,
+      "name": "Twitter Link",
+      "value": "https://twitter.com/anai_service"
+    },
+    {
+      "id": 17,
+      "name": "Listing Price",
+      "value": "1"
+    },
+    {
+      "id": 18,
+      "name": "Chain Name",
+      "value": "Polygon Network"
+    },
+    {
+      "id": 19,
+      "name": "Chain ID",
+      "value": "137"
+    },
+    {
+      "id": 20,
+      "name": "Native Coin",
+      "value": "MATIC"
+    },
+    {
+      "id": 21,
+      "name": "Minimum Buy",
+      "value": "1"
+    },
+    {
+      "id": 22,
+      "name": "Maximum Buy",
+      "value": "2000"
+    }
+    
+  ]
+  
